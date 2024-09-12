@@ -1,0 +1,1 @@
+#Escriba una función que compruebe si una cadena frase o palabra pasada es palíndromo o no. 
